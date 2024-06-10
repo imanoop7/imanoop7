@@ -29,7 +29,7 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="imanoop7 | Medium" width="30px" src="https://img.icons8.com/sf-black-filled/64/medium-logo.png" />][Medium]
+[<img align="left" alt="imanoop7 | Medium" width="30px" src="https://img.icons8.com/sf-black-filled/64/medium-logo.png alt="medium-logo"" />][Medium]
 [<img align="left" alt="imanoop7 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="imanoop7 | HuggingFace" width="30px" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />][Hugging-Face]
 
