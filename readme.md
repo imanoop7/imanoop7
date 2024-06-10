@@ -32,7 +32,7 @@
 
 [<img align="left" alt="imanoop7 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="imanoop7 | HuggingFace" width="30px" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />][Hugging-Face]
-[<img align="left" alt="imanoop7 | Medium" width="30px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/CMYK/Medium-Logo-Black-CMYK%401x.jpg" />][Medium]
+[<img align="left" alt="imanoop7 | Medium" width="30px" src="https://img.icons8.com/?size=100&id=VlAoafiMkWGe&format=png&color=000000" />][Medium]
 
 
                                                                                                                                                                        
