@@ -12,6 +12,7 @@
 * Natural Language Processing
 * MLOps
 * Generative AI  
+* Deep Neural Networks 
 
 <!-- 👉[My Online Portfolio]() -->
 
