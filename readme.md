@@ -38,7 +38,8 @@
 [<img align="left" alt="imanoop7 | Medium" width="30px" src="https://img.icons8.com/?size=100&id=VlAoafiMkWGe&format=png&color=000000" />][Medium]
 
 
-                                                                                                                                                                       
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imanoop7&theme=radical&no-frame=false&no-bg=true&margin-w=4)                                                                                                                                                                    
 
 <br>
 
@@ -61,8 +62,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanoop7&" alt="imanoop7" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imanoop7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
