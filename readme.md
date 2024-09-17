@@ -61,5 +61,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanoop7&" alt="imanoop7" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imanoop7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
