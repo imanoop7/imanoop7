@@ -37,7 +37,7 @@
 [<img align="left" alt="imanoop7 | HuggingFace" width="30px" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />][Hugging-Face]
 [<img align="left" alt="imanoop7 | Medium" width="30px" src="https://img.icons8.com/?size=100&id=VlAoafiMkWGe&format=png&color=000000" />][Medium]
 
-
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imanoop7&theme=radical&no-frame=false&no-bg=true&margin-w=4)                                                                                                                                                                    
 
