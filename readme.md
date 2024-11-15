@@ -41,8 +41,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imanoop7&theme=radical&no-frame=false&no-bg=true&margin-w=4)                                                                                                                                                                    
-
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=imanoop7&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <hr>
 
