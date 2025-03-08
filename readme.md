@@ -10,7 +10,7 @@
 * Machine Learning
 * Computer vision 
 * Natural Language Processing
-* MLOps
+* LLMOps
 * Generative AI  
 * Deep Neural Networks 
 
