@@ -30,22 +30,21 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="40"/>
 </p>
 
----
-
 ### 🌐 You can find me on
-<p align="left">
-  <a href="https://www.linkedin.com/in/anoop-maurya-908499148/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/anoop-maurya-908499148/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://huggingface.co/imanoop7">
-    <img src="https://img.icons8.com/ios-filled/50/hugging-face.png" width="30"/>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/imanoop7" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="36"/>
   </a>
-  <a href="https://medium.com/@mauryaanoop3">
-    <img src="https://img.icons8.com/color/48/medium-logo.png" width="30"/>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@mauryaanoop3" target="_blank">
+    <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imanoop7&label=Profile%20views&color=0e75b6&style=flat" />
